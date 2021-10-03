@@ -8,4 +8,6 @@ print ("x**y =" , (x**y))
 print ('log(x) =' , int(( math.log(x,2)))) 
 #made it an integer because the example in the hints did not have decimals 
 
-print(76764) 
+print(76764)
+
+print ("comp 100 is fun")
